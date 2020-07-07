@@ -11,5 +11,4 @@ dependencies:
   - matplotlib
   - ipympl
   - nodejs
-  - pip:
-    - scikit-multiflow>=5.3
+  - scikit-multiflow=0.5.3
